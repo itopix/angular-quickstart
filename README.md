@@ -23,3 +23,5 @@ https://github.com/olov/ng-annotate
 https://github.com/toddmotto/angular-styleguide
 
 https://github.com/johnpapa/
+
+http://blog.thoughtram.io/

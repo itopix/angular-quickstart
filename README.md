@@ -17,4 +17,7 @@ https://github.com/angular/material2
 Angular 1.x Material:
 
 https://material.angularjs.org/latest/
+
 https://github.com/olov/ng-annotate
+
+https://github.com/toddmotto/angular-styleguide

@@ -32,6 +32,9 @@ snippets:
 
 https://github.com/johnpapa/vscode-angular2-snippets
 
+Karma / test:
 git --version, node --version
 
 npm i -g gulp karma
+
+https://github.com/krsween/seek-starter

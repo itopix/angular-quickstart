@@ -27,3 +27,7 @@ https://github.com/johnpapa/
 http://blog.thoughtram.io/
 
 https://github.com/toddmotto/toddmotto.github.io/tree/master/_posts
+
+snippets:
+
+https://github.com/johnpapa/vscode-angular2-snippets

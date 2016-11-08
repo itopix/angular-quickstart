@@ -31,3 +31,7 @@ https://github.com/toddmotto/toddmotto.github.io/tree/master/_posts
 snippets:
 
 https://github.com/johnpapa/vscode-angular2-snippets
+
+git --version, node --version
+
+npm i -g gulp karma

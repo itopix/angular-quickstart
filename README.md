@@ -36,5 +36,4 @@ Karma / test:
 git --version, node --version
 
 npm i -g gulp karma
-
-https://github.com/krsween/seek-starter
+git clone  https://github.com/angular/quickstart  my-proj

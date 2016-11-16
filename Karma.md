@@ -19,3 +19,4 @@ Then, you can run Karma simply by karma from anywhere and it will always run the
 
 
 npm install -g typings
+npm install @types/jasmine --save-dev

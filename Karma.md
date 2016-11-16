@@ -14,3 +14,8 @@ Commandline Interface
 Typing ./node_modules/karma/bin/karma start sucks and so you might find it useful to install karma-cli globally. You will need to do this if you want to run Karma on Windows from the command line.
 $ npm install -g karma-cli
 Then, you can run Karma simply by karma from anywhere and it will always run the local version.
+
+
+
+
+npm install -g typings
